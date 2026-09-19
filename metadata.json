@@ -1,0 +1,6 @@
+{
+  "name": "SGW ONE NUSANTARA",
+  "description": "Integrated Enterprise Resource Planning System for cigarette manufacturing with automated accounting, tax, inventory, and Indonesian customs (Bea Cukai) compliance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
